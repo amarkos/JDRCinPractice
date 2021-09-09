@@ -1,0 +1,24 @@
+Joint Dimension Reduction and Clustering in Practice
+	Name of instructor:
+Assoc. Prof. Angelos Markos, Democritus University of Thrace, Greece.
+
+	Short description:
+Joint dimension reduction and clustering (JDRC) refers to a class of multivariate data analysis methods that perform simultaneous dimension reduction and clustering of continuous, categorical or mixed-type data. The key idea of JDRC is that both clustering of objects and a low dimensional subspace reflecting the cluster structure are simultaneously obtained. This short course explains the main features of this class methods, with illustrations to real data in a variety of contexts.
+
+	Introductory background:
+Markos, A., Iodice D’Enza, A., & van de Velden, M. (2019). Beyond tandem analysis: Joint dimension reduction and clustering in R. Journal of Statistical Software (Online), 91(10).
+URL: https://github.com/amarkos/JDRinPractice 
+van de Velden, M., Iodice D'Enza, A., & Markos, A. (2019). Distance‐based clustering of mixed data. Wiley Interdisciplinary Reviews: Computational Statistics, 11(3), e1456.
+
+	Tentative schedule
+1. Basic principles of JDRC of continuous, categorical and mixed-type data [20 min]
+2. Choosing the number of clusters and dimensions [15 min]
+3. Cluster interpretation and validation [25 min].
+
+	Target audience
+Practitioners and researchers related to any domains where compositional data are found. Statisticians who want an introduction to this field of research and application.
+
+	Facilities Required
+- Software: R, open source, with the R package clustrd installed 
+- Course Material. All course materials, including the data and R scripts for the   
+examples, will be made available for course participants.
